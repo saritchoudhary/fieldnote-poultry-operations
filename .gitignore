@@ -1,0 +1,8 @@
+supabase/functions/.env
+supabase/.temp/
+.env
+.env.*
+!.env.example
+node_modules/
+# Local Netlify folder
+.netlify
